@@ -47,7 +47,7 @@
 
         <!-- 프로필 섹션 -->
         <section id="profile" class="text-center my-12">
-            <img src="https://placehold.co/150x150/fbc2eb/a6c1ee?text=ONPING" 
+            <img src="[https://placehold.co/150x150/fbc2eb/a6c1ee?text=ONPING](https://ibb.co/TqJ5CZSX)" 
                  alt="김온핑 프로필 이미지"
                  class="w-40 h-40 rounded-full mx-auto shadow-xl border-4 border-white transform hover:scale-110 transition-transform duration-300">
             <h2 class="text-4xl font-extrabold mt-6 mb-2">안녕하세요! 김온핑입니다.</h2>
