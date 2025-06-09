@@ -58,7 +58,6 @@
         <section id="about" class="my-16 p-8 card-bg rounded-2xl shadow-lg">
             <h3 class="text-3xl font-bold text-center mb-6 border-b-2 border-pink-300 pb-3">ABOUT ME ABOUT ME 핑</h3>
             <p class="text-center text-lg leading-relaxed">
-                <!-- 김온핑님에 대한 소개를 자유롭게 수정해주세요 -->
                 다양한 게임(롤체)과 저챗 방송을 진행하고 있는 치지직 스트리머 김온핑입니다.👌<br>
                 시청자들과 기싸움하고 레이튼 해달라는 요청 무시하고 채팅들 눈밴하는 방송입니다.<br>
                 인서울 직장인 김온핑의 미친 재미 레이튼 방송 가보자고!
@@ -74,59 +73,6 @@
                         <i class="fa-solid fa-clock text-3xl text-pink-400 mr-4"></i>
                         <h4 class="text-2xl font-bold">방송 시간</h4>
                     </div>
-                    <!-- 방송 시간을 수정해주세요 -->
-                    <p>평일 저녁 언저리 (퇴근시간에 따라 상이           backdrop-filter: blur(10px);
-            -webkit-backdrop-filter: blur(10px);
-        }
-    </style>
-</head>
-<body class="bg-gray-100 text-gray-800">
-
-    <!-- 헤더 -->
-    <header class="gradient-bg shadow-lg">
-        <div class="container mx-auto px-6 py-4 flex justify-between items-center">
-            <h1 class="text-3xl font-bold text-white tracking-wider">김온핑 KIMONPING</h1>
-            <nav class="hidden md:flex space-x-8 text-white">
-                <a href="#about" class="hover:text-gray-200 transition duration-300">소개</a>
-                <a href="#broadcast" class="hover:text-gray-200 transition duration-300">방송 안내</a>
-                <a href="#links" class="hover:text-gray-200 transition duration-300">링크</a>
-            </nav>
-        </div>
-    </header>
-
-    <!-- 메인 컨텐츠 -->
-    <main class="container mx-auto p-4 md:p-8">
-
-        <!-- 프로필 섹션 -->
-        <section id="profile" class="text-center my-12">
-            <img src="https://placehold.co/150x150/fbc2eb/a6c1ee?text=ONPING" 
-                 alt="김온핑 프로필 이미지"
-                 class="w-40 h-40 rounded-full mx-auto shadow-xl border-4 border-white transform hover:scale-110 transition-transform duration-300">
-            <h2 class="text-4xl font-extrabold mt-6 mb-2">안녕하세요! 김온핑입니다.</h2>
-            <p class="text-lg text-gray-600">여러분의 즐거움을 책임지는 스트리머!</p>
-        </section>
-
-        <!-- 소개 섹션 -->
-        <section id="about" class="my-16 p-8 card-bg rounded-2xl shadow-lg">
-            <h3 class="text-3xl font-bold text-center mb-6 border-b-2 border-pink-300 pb-3">ABOUT ME ABOUT ME 핑</h3>
-            <p class="text-center text-lg leading-relaxed">
-                <!-- 김온핑님에 대한 소개를 자유롭게 수정해주세요 -->
-                다양한 게임(롤체)과 저챗 방송을 진행하고 있는 치지직 스트리머 김온핑입니다.👌<br>
-                시청자들과 기싸움하고 레이튼 해달라는 요청 무시하고 채팅들 눈밴하는 방송입니다.<br>
-                인서울 직장인 김온핑의 미친 재미 레이튼 방송 가보자고!
-            </p>
-        </section>
-
-        <!-- 방송 안내 섹션 -->
-        <section id="broadcast" class="my-16">
-            <h3 class="text-3xl font-bold text-center mb-8">BROADCAST INFO</h3>
-            <div class="grid md:grid-cols-2 gap-8">
-                <div class="p-8 card-bg rounded-2xl shadow-lg hover:shadow-xl transition-shadow duration-300">
-                    <div class="flex items-center mb-4">
-                        <i class="fa-solid fa-clock text-3xl text-pink-400 mr-4"></i>
-                        <h4 class="text-2xl font-bold">방송 시간</h4>
-                    </div>
-                    <!-- 방송 시간을 수정해주세요 -->
                     <p>평일 저녁 언저리 (퇴근시간에 따라 상이)</p>
                     <p>주말은 랜덤 (인스타를 확인해주세요)</p>
                 </div>
@@ -135,7 +81,6 @@
                         <i class="fa-solid fa-gamepad text-3xl text-blue-400 mr-4"></i>
                         <h4 class="text-2xl font-bold">주요 컨텐츠</h4>
                     </div>
-                    <!-- 주요 컨텐츠를 수정해주세요 -->
                     <p>롤체 (대깨로 마빵단)</p>
                     <p>종합 게임 (공포 게임, 람쥐 어웨이, 레이튼, 레이튼, 레이튼, 레이튼 등)</p>
                     <p>시청자와 함께하는 소통 방송 (심야괴담회, 온서운 이야기, 썰풀기, 고민상담담)</p>
